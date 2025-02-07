@@ -1,7 +1,7 @@
 
 **2024-11-25 19:23**
 
-**Sprint:** [[sp]]
+**Sprint:** [[Sprint4]]
 
 **Topic:** #testes-de-hipóteses
 

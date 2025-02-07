@@ -1,4 +1,15 @@
 
+**2025-02-02 22:31**
+
+**Sprint:** [[Sprint5]]
+
+**Topic:** #intro-CLI 
+
+**Connections:** 
+
+---
+# **Como visualizar e editar arquivos-parte 1**
+
 # Comandos Linux para Visualização e Edição de Arquivos
 
 ## Introdução
